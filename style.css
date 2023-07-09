@@ -1,0 +1,33 @@
+.body {
+	color: black;
+	margin: auto;
+	width: 80%;
+}
+.header {
+	text-align: center;
+	margin: auto;
+}
+.jsLogo {
+	border-radius: 8px;
+	height: 100px;
+}
+.css3 {
+	border-radius: 8px;
+	height: 100px;
+}
+.main {
+	text-align: center;
+}
+.foto {
+	width: 320px;
+}
+.code {
+	text-align: left;
+}
+.footer {
+	text-align: center;
+	margin: auto;
+}
+.rs_school_js {
+	height: 50px;
+}
